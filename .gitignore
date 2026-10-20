@@ -1,0 +1,8 @@
+# Foundry and Hardhat ignores
+node_modules/
+artifacts/
+cache/
+typechain-types/
+coverage/
+.env.local
+.env
